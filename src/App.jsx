@@ -69,7 +69,8 @@ const UrlShortener = () => {
         readOnly
       />
       <button className="cpybtn" onClick={copyToClipboard}>Copy to clipboard</button>
-  
+<p class="pro">Challenge By <a href= "https://www.frontendmentor.io/challenges/url-shortening-api-landing-page-2ce3ob-G" target='blank' class="lin1">Frontendmentor</a></p>
+<p class="pro1">completed By <a href = "https://github.com/SupreetOP?tab=repositories" target="blank" class="lin2">SupreetOP</a></p>  
     </div>
     
    
